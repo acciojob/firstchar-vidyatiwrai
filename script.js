@@ -1,4 +1,4 @@
-function firstChar(str) {
+ffunction firstChar(str) {
 // Remove leading and trailing spaces
 str = str.trim();
 
